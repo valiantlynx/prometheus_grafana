@@ -14,7 +14,7 @@ This project sets up a monitoring stack using Prometheus, Grafana, Node Exporter
 
 # monitoring with promitheus and visuals with grafana.
 
-`prometheus.yml` should be put at `/etc/prometheus/prometheus.yml`
+`prometheus.yml` should be put at `/etc/prometheus/prometheus.yml`. This can be done later
 
 # use 
 ```bash
